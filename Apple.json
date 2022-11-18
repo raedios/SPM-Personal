@@ -135,6 +135,2771 @@
                     "version": "0.1.1"
                 }
             ]
+        },
+        {
+            "keywords": [
+                "cli",
+                "command-line",
+                "flag",
+                "option"
+            ],
+            "license": {
+                "name": "Apache-2.0",
+                "url": "https://raw.githubusercontent.com/apple/swift-argument-parser/main/LICENSE.txt"
+            },
+            "readmeURL": "https://raw.githubusercontent.com/apple/swift-argument-parser/main/README.md",
+            "summary": "Straightforward, type-safe argument parsing for Swift",
+            "url": "https://github.com/apple/swift-argument-parser.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.5",
+                    "manifests": {
+                        "5.5": {
+                            "packageName": "swift-argument-parser",
+                            "products": [
+                                {
+                                    "name": "ArgumentParser",
+                                    "targets": [
+                                        "ArgumentParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ArgumentParser",
+                                    "name": "ArgumentParser"
+                                }
+                            ],
+                            "toolsVersion": "5.5"
+                        }
+                    },
+                    "version": "1.2.0"
+                },
+                {
+                    "defaultToolsVersion": "5.5",
+                    "manifests": {
+                        "5.5": {
+                            "packageName": "swift-argument-parser",
+                            "products": [
+                                {
+                                    "name": "ArgumentParser",
+                                    "targets": [
+                                        "ArgumentParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ArgumentParser",
+                                    "name": "ArgumentParser"
+                                }
+                            ],
+                            "toolsVersion": "5.5"
+                        }
+                    },
+                    "version": "1.1.4"
+                },
+                {
+                    "defaultToolsVersion": "5.5",
+                    "manifests": {
+                        "5.5": {
+                            "packageName": "swift-argument-parser",
+                            "products": [
+                                {
+                                    "name": "ArgumentParser",
+                                    "targets": [
+                                        "ArgumentParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ArgumentParser",
+                                    "name": "ArgumentParser"
+                                }
+                            ],
+                            "toolsVersion": "5.5"
+                        }
+                    },
+                    "version": "1.1.3"
+                },
+                {
+                    "defaultToolsVersion": "5.2",
+                    "manifests": {
+                        "5.2": {
+                            "packageName": "swift-argument-parser",
+                            "products": [
+                                {
+                                    "name": "ArgumentParser",
+                                    "targets": [
+                                        "ArgumentParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ArgumentParser",
+                                    "name": "ArgumentParser"
+                                }
+                            ],
+                            "toolsVersion": "5.2"
+                        }
+                    },
+                    "version": "0.5.0"
+                },
+                {
+                    "defaultToolsVersion": "5.2",
+                    "manifests": {
+                        "5.2": {
+                            "packageName": "swift-argument-parser",
+                            "products": [
+                                {
+                                    "name": "ArgumentParser",
+                                    "targets": [
+                                        "ArgumentParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ArgumentParser",
+                                    "name": "ArgumentParser"
+                                }
+                            ],
+                            "toolsVersion": "5.2"
+                        }
+                    },
+                    "version": "0.4.4"
+                },
+                {
+                    "defaultToolsVersion": "5.2",
+                    "manifests": {
+                        "5.2": {
+                            "packageName": "swift-argument-parser",
+                            "products": [
+                                {
+                                    "name": "ArgumentParser",
+                                    "targets": [
+                                        "ArgumentParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ArgumentParser",
+                                    "name": "ArgumentParser"
+                                }
+                            ],
+                            "toolsVersion": "5.2"
+                        }
+                    },
+                    "version": "0.4.3"
+                }
+            ]
+        },
+        {
+            "keywords": [
+                "concurrency",
+                "synchronization"
+            ],
+            "license": {
+                "name": "Apache-2.0",
+                "url": "https://raw.githubusercontent.com/apple/swift-atomics/main/LICENSE.txt"
+            },
+            "readmeURL": "https://raw.githubusercontent.com/apple/swift-atomics/main/README.md",
+            "summary": "Low-level atomic operations for Swift",
+            "url": "https://github.com/apple/swift-atomics.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "packageName": "swift-atomics",
+                            "products": [
+                                {
+                                    "name": "Atomics",
+                                    "targets": [
+                                        "Atomics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Atomics",
+                                    "name": "Atomics"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "version": "1.0.2"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "packageName": "swift-atomics",
+                            "products": [
+                                {
+                                    "name": "Atomics",
+                                    "targets": [
+                                        "Atomics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Atomics",
+                                    "name": "Atomics"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "version": "1.0.1"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "packageName": "swift-atomics",
+                            "products": [
+                                {
+                                    "name": "Atomics",
+                                    "targets": [
+                                        "Atomics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Atomics",
+                                    "name": "Atomics"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "version": "1.0.0"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "packageName": "swift-atomics",
+                            "products": [
+                                {
+                                    "name": "Atomics",
+                                    "targets": [
+                                        "Atomics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Atomics",
+                                    "name": "Atomics"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "0.0.3"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "packageName": "swift-atomics",
+                            "products": [
+                                {
+                                    "name": "Atomics",
+                                    "targets": [
+                                        "Atomics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Atomics",
+                                    "name": "Atomics"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "0.0.2"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "packageName": "swift-atomics",
+                            "products": [
+                                {
+                                    "name": "Atomics",
+                                    "targets": [
+                                        "Atomics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Atomics",
+                                    "name": "Atomics"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "0.0.1"
+                }
+            ]
+        },
+        {
+            "keywords": [
+                "collection",
+                "container",
+                "deque",
+                "dequeue",
+                "hash",
+                "ordered-dictionary",
+                "ordered-set",
+                "queue",
+                "sequence"
+            ],
+            "license": {
+                "name": "Apache-2.0",
+                "url": "https://raw.githubusercontent.com/apple/swift-collections/main/LICENSE.txt"
+            },
+            "readmeURL": "https://raw.githubusercontent.com/apple/swift-collections/main/README.md",
+            "summary": "Commonly used data structures for Swift",
+            "url": "https://github.com/apple/swift-collections.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "packageName": "swift-collections",
+                            "products": [
+                                {
+                                    "name": "Collections",
+                                    "targets": [
+                                        "Collections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "DequeModule",
+                                    "targets": [
+                                        "DequeModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "OrderedCollections",
+                                    "targets": [
+                                        "OrderedCollections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Collections",
+                                    "name": "Collections"
+                                },
+                                {
+                                    "moduleName": "DequeModule",
+                                    "name": "DequeModule"
+                                },
+                                {
+                                    "moduleName": "OrderedCollections",
+                                    "name": "OrderedCollections"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "version": "1.0.3"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "packageName": "swift-collections",
+                            "products": [
+                                {
+                                    "name": "Collections",
+                                    "targets": [
+                                        "Collections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "DequeModule",
+                                    "targets": [
+                                        "DequeModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "OrderedCollections",
+                                    "targets": [
+                                        "OrderedCollections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Collections",
+                                    "name": "Collections"
+                                },
+                                {
+                                    "moduleName": "DequeModule",
+                                    "name": "DequeModule"
+                                },
+                                {
+                                    "moduleName": "OrderedCollections",
+                                    "name": "OrderedCollections"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "version": "1.0.2"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "packageName": "swift-collections",
+                            "products": [
+                                {
+                                    "name": "Collections",
+                                    "targets": [
+                                        "Collections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "DequeModule",
+                                    "targets": [
+                                        "DequeModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "OrderedCollections",
+                                    "targets": [
+                                        "OrderedCollections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Collections",
+                                    "name": "Collections"
+                                },
+                                {
+                                    "moduleName": "DequeModule",
+                                    "name": "DequeModule"
+                                },
+                                {
+                                    "moduleName": "OrderedCollections",
+                                    "name": "OrderedCollections"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "version": "1.0.1"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "packageName": "swift-collections",
+                            "products": [
+                                {
+                                    "name": "Collections",
+                                    "targets": [
+                                        "Collections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "DequeModule",
+                                    "targets": [
+                                        "DequeModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "OrderedCollections",
+                                    "targets": [
+                                        "OrderedCollections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Collections",
+                                    "name": "Collections"
+                                },
+                                {
+                                    "moduleName": "DequeModule",
+                                    "name": "DequeModule"
+                                },
+                                {
+                                    "moduleName": "OrderedCollections",
+                                    "name": "OrderedCollections"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "version": "0.0.7"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "packageName": "swift-collections",
+                            "products": [
+                                {
+                                    "name": "Collections",
+                                    "targets": [
+                                        "Collections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "DequeModule",
+                                    "targets": [
+                                        "DequeModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "OrderedCollections",
+                                    "targets": [
+                                        "OrderedCollections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Collections",
+                                    "name": "Collections"
+                                },
+                                {
+                                    "moduleName": "DequeModule",
+                                    "name": "DequeModule"
+                                },
+                                {
+                                    "moduleName": "OrderedCollections",
+                                    "name": "OrderedCollections"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "version": "0.0.5"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "packageName": "swift-collections",
+                            "products": [
+                                {
+                                    "name": "Collections",
+                                    "targets": [
+                                        "Collections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "DequeModule",
+                                    "targets": [
+                                        "DequeModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "OrderedCollections",
+                                    "targets": [
+                                        "OrderedCollections"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Collections",
+                                    "name": "Collections"
+                                },
+                                {
+                                    "moduleName": "DequeModule",
+                                    "name": "DequeModule"
+                                },
+                                {
+                                    "moduleName": "OrderedCollections",
+                                    "name": "OrderedCollections"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "version": "0.0.4"
+                }
+            ]
+        },
+        {
+            "keywords": [
+                "cryptography",
+                "elliptic-curves",
+                "hash-functions",
+                "ciphers",
+                "ecdsa",
+                "ecdh",
+                "eddsa",
+                "boringssl"
+            ],
+            "license": {
+                "name": "Apache-2.0",
+                "url": "https://raw.githubusercontent.com/apple/swift-crypto/main/LICENSE.txt"
+            },
+            "readmeURL": "https://raw.githubusercontent.com/apple/swift-crypto/main/README.md",
+            "summary": "Implements most of Apple's CryptoKit API for use across multiple platforms.",
+            "url": "https://github.com/apple/swift-crypto.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.5",
+                    "manifests": {
+                        "5.5": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "swift-crypto",
+                            "products": [
+                                {
+                                    "name": "Crypto",
+                                    "targets": [
+                                        "Crypto"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_CryptoExtras",
+                                    "targets": [
+                                        "_CryptoExtras"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Crypto",
+                                    "name": "Crypto"
+                                },
+                                {
+                                    "moduleName": "_CryptoExtras",
+                                    "name": "_CryptoExtras"
+                                }
+                            ],
+                            "toolsVersion": "5.5"
+                        }
+                    },
+                    "version": "2.2.0"
+                },
+                {
+                    "defaultToolsVersion": "5.4",
+                    "manifests": {
+                        "5.4": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "swift-crypto",
+                            "products": [
+                                {
+                                    "name": "Crypto",
+                                    "targets": [
+                                        "Crypto"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_CryptoExtras",
+                                    "targets": [
+                                        "_CryptoExtras"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Crypto",
+                                    "name": "Crypto"
+                                },
+                                {
+                                    "moduleName": "_CryptoExtras",
+                                    "name": "_CryptoExtras"
+                                }
+                            ],
+                            "toolsVersion": "5.4"
+                        }
+                    },
+                    "version": "2.1.0"
+                },
+                {
+                    "defaultToolsVersion": "5.2",
+                    "manifests": {
+                        "5.2": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "swift-crypto",
+                            "products": [
+                                {
+                                    "name": "Crypto",
+                                    "targets": [
+                                        "Crypto"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_CryptoExtras",
+                                    "targets": [
+                                        "_CryptoExtras"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Crypto",
+                                    "name": "Crypto"
+                                },
+                                {
+                                    "moduleName": "_CryptoExtras",
+                                    "name": "_CryptoExtras"
+                                }
+                            ],
+                            "toolsVersion": "5.2"
+                        }
+                    },
+                    "version": "2.0.5"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "swift-crypto",
+                            "products": [
+                                {
+                                    "name": "Crypto",
+                                    "targets": [
+                                        "Crypto"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Crypto",
+                                    "name": "Crypto"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "1.1.7"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "swift-crypto",
+                            "products": [
+                                {
+                                    "name": "Crypto",
+                                    "targets": [
+                                        "Crypto"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Crypto",
+                                    "name": "Crypto"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "1.1.6"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "swift-crypto",
+                            "products": [
+                                {
+                                    "name": "Crypto",
+                                    "targets": [
+                                        "Crypto"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Crypto",
+                                    "name": "Crypto"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "1.1.5"
+                }
+            ]
+        },
+        {
+            "keywords": [
+                "asynchronous-io",
+                "networking",
+                "event-driven",
+                "high-performance",
+                "non-blocking-io",
+                "non-blocking",
+                "swift-server"
+            ],
+            "license": {
+                "name": "Apache-2.0",
+                "url": "https://raw.githubusercontent.com/apple/swift-nio/main/LICENSE.txt"
+            },
+            "readmeURL": "https://raw.githubusercontent.com/apple/swift-nio/main/README.md",
+            "summary": "Supports development of asynchronous event-driven network applications that maintain high performance, non-blocking protocol servers & clients.",
+            "url": "https://github.com/apple/swift-nio.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.5",
+                    "manifests": {
+                        "5.5": {
+                            "packageName": "swift-nio",
+                            "products": [
+                                {
+                                    "name": "NIO",
+                                    "targets": [
+                                        "NIO"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOConcurrencyHelpers",
+                                    "targets": [
+                                        "NIOConcurrencyHelpers"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOCore",
+                                    "targets": [
+                                        "NIOCore"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOEmbedded",
+                                    "targets": [
+                                        "NIOEmbedded"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOFoundationCompat",
+                                    "targets": [
+                                        "NIOFoundationCompat"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOHTTP1",
+                                    "targets": [
+                                        "NIOHTTP1"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOPosix",
+                                    "targets": [
+                                        "NIOPosix"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOTLS",
+                                    "targets": [
+                                        "NIOTLS"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOTestUtils",
+                                    "targets": [
+                                        "NIOTestUtils"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOWebSocket",
+                                    "targets": [
+                                        "NIOWebSocket"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_NIOBeta",
+                                    "targets": [
+                                        "_NIOBeta"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_NIOConcurrency",
+                                    "targets": [
+                                        "_NIOConcurrency"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "NIO",
+                                    "name": "NIO"
+                                },
+                                {
+                                    "moduleName": "NIOConcurrencyHelpers",
+                                    "name": "NIOConcurrencyHelpers"
+                                },
+                                {
+                                    "moduleName": "NIOCore",
+                                    "name": "NIOCore"
+                                },
+                                {
+                                    "moduleName": "NIOEmbedded",
+                                    "name": "NIOEmbedded"
+                                },
+                                {
+                                    "moduleName": "NIOFoundationCompat",
+                                    "name": "NIOFoundationCompat"
+                                },
+                                {
+                                    "moduleName": "NIOHTTP1",
+                                    "name": "NIOHTTP1"
+                                },
+                                {
+                                    "moduleName": "NIOPosix",
+                                    "name": "NIOPosix"
+                                },
+                                {
+                                    "moduleName": "NIOTLS",
+                                    "name": "NIOTLS"
+                                },
+                                {
+                                    "moduleName": "NIOTestUtils",
+                                    "name": "NIOTestUtils"
+                                },
+                                {
+                                    "moduleName": "NIOWebSocket",
+                                    "name": "NIOWebSocket"
+                                },
+                                {
+                                    "moduleName": "_NIOBeta",
+                                    "name": "_NIOBeta"
+                                },
+                                {
+                                    "moduleName": "_NIOConcurrency",
+                                    "name": "_NIOConcurrency"
+                                }
+                            ],
+                            "toolsVersion": "5.5"
+                        }
+                    },
+                    "version": "2.44.0"
+                },
+                {
+                    "defaultToolsVersion": "5.5",
+                    "manifests": {
+                        "5.5": {
+                            "packageName": "swift-nio",
+                            "products": [
+                                {
+                                    "name": "NIO",
+                                    "targets": [
+                                        "NIO"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOConcurrencyHelpers",
+                                    "targets": [
+                                        "NIOConcurrencyHelpers"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOCore",
+                                    "targets": [
+                                        "NIOCore"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOEmbedded",
+                                    "targets": [
+                                        "NIOEmbedded"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOFoundationCompat",
+                                    "targets": [
+                                        "NIOFoundationCompat"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOHTTP1",
+                                    "targets": [
+                                        "NIOHTTP1"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOPosix",
+                                    "targets": [
+                                        "NIOPosix"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOTLS",
+                                    "targets": [
+                                        "NIOTLS"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOTestUtils",
+                                    "targets": [
+                                        "NIOTestUtils"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOWebSocket",
+                                    "targets": [
+                                        "NIOWebSocket"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_NIOBeta",
+                                    "targets": [
+                                        "_NIOBeta"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_NIOConcurrency",
+                                    "targets": [
+                                        "_NIOConcurrency"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "NIO",
+                                    "name": "NIO"
+                                },
+                                {
+                                    "moduleName": "NIOConcurrencyHelpers",
+                                    "name": "NIOConcurrencyHelpers"
+                                },
+                                {
+                                    "moduleName": "NIOCore",
+                                    "name": "NIOCore"
+                                },
+                                {
+                                    "moduleName": "NIOEmbedded",
+                                    "name": "NIOEmbedded"
+                                },
+                                {
+                                    "moduleName": "NIOFoundationCompat",
+                                    "name": "NIOFoundationCompat"
+                                },
+                                {
+                                    "moduleName": "NIOHTTP1",
+                                    "name": "NIOHTTP1"
+                                },
+                                {
+                                    "moduleName": "NIOPosix",
+                                    "name": "NIOPosix"
+                                },
+                                {
+                                    "moduleName": "NIOTLS",
+                                    "name": "NIOTLS"
+                                },
+                                {
+                                    "moduleName": "NIOTestUtils",
+                                    "name": "NIOTestUtils"
+                                },
+                                {
+                                    "moduleName": "NIOWebSocket",
+                                    "name": "NIOWebSocket"
+                                },
+                                {
+                                    "moduleName": "_NIOBeta",
+                                    "name": "_NIOBeta"
+                                },
+                                {
+                                    "moduleName": "_NIOConcurrency",
+                                    "name": "_NIOConcurrency"
+                                }
+                            ],
+                            "toolsVersion": "5.5"
+                        }
+                    },
+                    "version": "2.43.1"
+                },
+                {
+                    "defaultToolsVersion": "5.5",
+                    "manifests": {
+                        "5.5": {
+                            "packageName": "swift-nio",
+                            "products": [
+                                {
+                                    "name": "NIO",
+                                    "targets": [
+                                        "NIO"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOConcurrencyHelpers",
+                                    "targets": [
+                                        "NIOConcurrencyHelpers"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOCore",
+                                    "targets": [
+                                        "NIOCore"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOEmbedded",
+                                    "targets": [
+                                        "NIOEmbedded"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOFoundationCompat",
+                                    "targets": [
+                                        "NIOFoundationCompat"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOHTTP1",
+                                    "targets": [
+                                        "NIOHTTP1"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOPosix",
+                                    "targets": [
+                                        "NIOPosix"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOTLS",
+                                    "targets": [
+                                        "NIOTLS"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOTestUtils",
+                                    "targets": [
+                                        "NIOTestUtils"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOWebSocket",
+                                    "targets": [
+                                        "NIOWebSocket"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_NIOBeta",
+                                    "targets": [
+                                        "_NIOBeta"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_NIOConcurrency",
+                                    "targets": [
+                                        "_NIOConcurrency"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "NIO",
+                                    "name": "NIO"
+                                },
+                                {
+                                    "moduleName": "NIOConcurrencyHelpers",
+                                    "name": "NIOConcurrencyHelpers"
+                                },
+                                {
+                                    "moduleName": "NIOCore",
+                                    "name": "NIOCore"
+                                },
+                                {
+                                    "moduleName": "NIOEmbedded",
+                                    "name": "NIOEmbedded"
+                                },
+                                {
+                                    "moduleName": "NIOFoundationCompat",
+                                    "name": "NIOFoundationCompat"
+                                },
+                                {
+                                    "moduleName": "NIOHTTP1",
+                                    "name": "NIOHTTP1"
+                                },
+                                {
+                                    "moduleName": "NIOPosix",
+                                    "name": "NIOPosix"
+                                },
+                                {
+                                    "moduleName": "NIOTLS",
+                                    "name": "NIOTLS"
+                                },
+                                {
+                                    "moduleName": "NIOTestUtils",
+                                    "name": "NIOTestUtils"
+                                },
+                                {
+                                    "moduleName": "NIOWebSocket",
+                                    "name": "NIOWebSocket"
+                                },
+                                {
+                                    "moduleName": "_NIOBeta",
+                                    "name": "_NIOBeta"
+                                },
+                                {
+                                    "moduleName": "_NIOConcurrency",
+                                    "name": "_NIOConcurrency"
+                                }
+                            ],
+                            "toolsVersion": "5.5"
+                        }
+                    },
+                    "version": "2.43.0"
+                },
+                {
+                    "defaultToolsVersion": "4.0",
+                    "manifests": {
+                        "4.0": {
+                            "packageName": "swift-nio",
+                            "products": [
+                                {
+                                    "name": "NIO",
+                                    "targets": [
+                                        "NIO"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOConcurrencyHelpers",
+                                    "targets": [
+                                        "NIOConcurrencyHelpers"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOFoundationCompat",
+                                    "targets": [
+                                        "NIOFoundationCompat"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOHTTP1",
+                                    "targets": [
+                                        "NIOHTTP1"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOTLS",
+                                    "targets": [
+                                        "NIOTLS"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOWebSocket",
+                                    "targets": [
+                                        "NIOWebSocket"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "NIO",
+                                    "name": "NIO"
+                                },
+                                {
+                                    "moduleName": "NIOConcurrencyHelpers",
+                                    "name": "NIOConcurrencyHelpers"
+                                },
+                                {
+                                    "moduleName": "NIOFoundationCompat",
+                                    "name": "NIOFoundationCompat"
+                                },
+                                {
+                                    "moduleName": "NIOHTTP1",
+                                    "name": "NIOHTTP1"
+                                },
+                                {
+                                    "moduleName": "NIOTLS",
+                                    "name": "NIOTLS"
+                                },
+                                {
+                                    "moduleName": "NIOWebSocket",
+                                    "name": "NIOWebSocket"
+                                }
+                            ],
+                            "toolsVersion": "4.0"
+                        }
+                    },
+                    "version": "1.14.4"
+                },
+                {
+                    "defaultToolsVersion": "4.0",
+                    "manifests": {
+                        "4.0": {
+                            "packageName": "swift-nio",
+                            "products": [
+                                {
+                                    "name": "NIO",
+                                    "targets": [
+                                        "NIO"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOConcurrencyHelpers",
+                                    "targets": [
+                                        "NIOConcurrencyHelpers"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOFoundationCompat",
+                                    "targets": [
+                                        "NIOFoundationCompat"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOHTTP1",
+                                    "targets": [
+                                        "NIOHTTP1"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOTLS",
+                                    "targets": [
+                                        "NIOTLS"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOWebSocket",
+                                    "targets": [
+                                        "NIOWebSocket"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "NIO",
+                                    "name": "NIO"
+                                },
+                                {
+                                    "moduleName": "NIOConcurrencyHelpers",
+                                    "name": "NIOConcurrencyHelpers"
+                                },
+                                {
+                                    "moduleName": "NIOFoundationCompat",
+                                    "name": "NIOFoundationCompat"
+                                },
+                                {
+                                    "moduleName": "NIOHTTP1",
+                                    "name": "NIOHTTP1"
+                                },
+                                {
+                                    "moduleName": "NIOTLS",
+                                    "name": "NIOTLS"
+                                },
+                                {
+                                    "moduleName": "NIOWebSocket",
+                                    "name": "NIOWebSocket"
+                                }
+                            ],
+                            "toolsVersion": "4.0"
+                        }
+                    },
+                    "version": "1.14.3"
+                },
+                {
+                    "defaultToolsVersion": "4.0",
+                    "manifests": {
+                        "4.0": {
+                            "packageName": "swift-nio",
+                            "products": [
+                                {
+                                    "name": "NIO",
+                                    "targets": [
+                                        "NIO"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOConcurrencyHelpers",
+                                    "targets": [
+                                        "NIOConcurrencyHelpers"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOFoundationCompat",
+                                    "targets": [
+                                        "NIOFoundationCompat"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOHTTP1",
+                                    "targets": [
+                                        "NIOHTTP1"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOTLS",
+                                    "targets": [
+                                        "NIOTLS"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "NIOWebSocket",
+                                    "targets": [
+                                        "NIOWebSocket"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "NIO",
+                                    "name": "NIO"
+                                },
+                                {
+                                    "moduleName": "NIOConcurrencyHelpers",
+                                    "name": "NIOConcurrencyHelpers"
+                                },
+                                {
+                                    "moduleName": "NIOFoundationCompat",
+                                    "name": "NIOFoundationCompat"
+                                },
+                                {
+                                    "moduleName": "NIOHTTP1",
+                                    "name": "NIOHTTP1"
+                                },
+                                {
+                                    "moduleName": "NIOTLS",
+                                    "name": "NIOTLS"
+                                },
+                                {
+                                    "moduleName": "NIOWebSocket",
+                                    "name": "NIOWebSocket"
+                                }
+                            ],
+                            "toolsVersion": "4.0"
+                        }
+                    },
+                    "version": "1.14.2"
+                }
+            ]
+        },
+        {
+            "keywords": [
+                "complex",
+                "math",
+                "mathematics",
+                "maths",
+                "real",
+                "trig"
+            ],
+            "license": {
+                "name": "Apache-2.0",
+                "url": "https://raw.githubusercontent.com/apple/swift-numerics/main/LICENSE.txt"
+            },
+            "readmeURL": "https://raw.githubusercontent.com/apple/swift-numerics/main/README.md",
+            "summary": "Advanced mathematical types and functions for Swift",
+            "url": "https://github.com/apple/swift-numerics.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "packageName": "swift-numerics",
+                            "products": [
+                                {
+                                    "name": "ComplexModule",
+                                    "targets": [
+                                        "ComplexModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "Numerics",
+                                    "targets": [
+                                        "Numerics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RealModule",
+                                    "targets": [
+                                        "RealModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ComplexModule",
+                                    "name": "ComplexModule"
+                                },
+                                {
+                                    "moduleName": "Numerics",
+                                    "name": "Numerics"
+                                },
+                                {
+                                    "moduleName": "RealModule",
+                                    "name": "RealModule"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "1.0.2"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "packageName": "swift-numerics",
+                            "products": [
+                                {
+                                    "name": "ComplexModule",
+                                    "targets": [
+                                        "ComplexModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "Numerics",
+                                    "targets": [
+                                        "Numerics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RealModule",
+                                    "targets": [
+                                        "RealModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ComplexModule",
+                                    "name": "ComplexModule"
+                                },
+                                {
+                                    "moduleName": "Numerics",
+                                    "name": "Numerics"
+                                },
+                                {
+                                    "moduleName": "RealModule",
+                                    "name": "RealModule"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "1.0.1"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "packageName": "swift-numerics",
+                            "products": [
+                                {
+                                    "name": "ComplexModule",
+                                    "targets": [
+                                        "ComplexModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "Numerics",
+                                    "targets": [
+                                        "Numerics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RealModule",
+                                    "targets": [
+                                        "RealModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ComplexModule",
+                                    "name": "ComplexModule"
+                                },
+                                {
+                                    "moduleName": "Numerics",
+                                    "name": "Numerics"
+                                },
+                                {
+                                    "moduleName": "RealModule",
+                                    "name": "RealModule"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "1.0.0"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "packageName": "swift-numerics",
+                            "products": [
+                                {
+                                    "name": "ComplexModule",
+                                    "targets": [
+                                        "ComplexModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "Numerics",
+                                    "targets": [
+                                        "Numerics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RealModule",
+                                    "targets": [
+                                        "RealModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ComplexModule",
+                                    "name": "ComplexModule"
+                                },
+                                {
+                                    "moduleName": "Numerics",
+                                    "name": "Numerics"
+                                },
+                                {
+                                    "moduleName": "RealModule",
+                                    "name": "RealModule"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "0.1.0"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "packageName": "swift-numerics",
+                            "products": [
+                                {
+                                    "name": "ComplexModule",
+                                    "targets": [
+                                        "ComplexModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "Numerics",
+                                    "targets": [
+                                        "Numerics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RealModule",
+                                    "targets": [
+                                        "RealModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ComplexModule",
+                                    "name": "ComplexModule"
+                                },
+                                {
+                                    "moduleName": "Numerics",
+                                    "name": "Numerics"
+                                },
+                                {
+                                    "moduleName": "RealModule",
+                                    "name": "RealModule"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "0.0.8"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "packageName": "swift-numerics",
+                            "products": [
+                                {
+                                    "name": "ComplexModule",
+                                    "targets": [
+                                        "ComplexModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "Numerics",
+                                    "targets": [
+                                        "Numerics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RealModule",
+                                    "targets": [
+                                        "RealModule"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "ComplexModule",
+                                    "name": "ComplexModule"
+                                },
+                                {
+                                    "moduleName": "Numerics",
+                                    "name": "Numerics"
+                                },
+                                {
+                                    "moduleName": "RealModule",
+                                    "name": "RealModule"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "summary": "Re-tag 0.0.7 after removing f16 muladd.",
+                    "version": "0.0.7"
+                }
+            ]
+        },
+        {
+            "keywords": [],
+            "license": {
+                "name": "Apache-2.0",
+                "url": "https://raw.githubusercontent.com/apple/swift-protobuf/main/LICENSE.txt"
+            },
+            "readmeURL": "https://raw.githubusercontent.com/apple/swift-protobuf/main/README.md",
+            "summary": "Implements a runtime and plugin for using protobuf serialization technology with Swift.",
+            "url": "https://github.com/apple/swift-protobuf.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "4.2",
+                    "manifests": {
+                        "4.2": {
+                            "packageName": "SwiftProtobuf",
+                            "products": [
+                                {
+                                    "name": "SwiftProtobuf",
+                                    "targets": [
+                                        "SwiftProtobuf"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftProtobufPluginLibrary",
+                                    "targets": [
+                                        "SwiftProtobufPluginLibrary"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "protoc-gen-swift",
+                                    "targets": [
+                                        "protoc-gen-swift"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SwiftProtobuf",
+                                    "name": "SwiftProtobuf"
+                                },
+                                {
+                                    "moduleName": "SwiftProtobufPluginLibrary",
+                                    "name": "SwiftProtobufPluginLibrary"
+                                },
+                                {
+                                    "moduleName": "protoc_gen_swift",
+                                    "name": "protoc-gen-swift"
+                                }
+                            ],
+                            "toolsVersion": "4.2"
+                        }
+                    },
+                    "version": "1.20.3"
+                },
+                {
+                    "defaultToolsVersion": "4.2",
+                    "manifests": {
+                        "4.2": {
+                            "packageName": "SwiftProtobuf",
+                            "products": [
+                                {
+                                    "name": "SwiftProtobuf",
+                                    "targets": [
+                                        "SwiftProtobuf"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftProtobufPluginLibrary",
+                                    "targets": [
+                                        "SwiftProtobufPluginLibrary"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "protoc-gen-swift",
+                                    "targets": [
+                                        "protoc-gen-swift"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SwiftProtobuf",
+                                    "name": "SwiftProtobuf"
+                                },
+                                {
+                                    "moduleName": "SwiftProtobufPluginLibrary",
+                                    "name": "SwiftProtobufPluginLibrary"
+                                },
+                                {
+                                    "moduleName": "protoc_gen_swift",
+                                    "name": "protoc-gen-swift"
+                                }
+                            ],
+                            "toolsVersion": "4.2"
+                        }
+                    },
+                    "version": "1.20.2"
+                },
+                {
+                    "defaultToolsVersion": "4.2",
+                    "manifests": {
+                        "4.2": {
+                            "packageName": "SwiftProtobuf",
+                            "products": [
+                                {
+                                    "name": "SwiftProtobuf",
+                                    "targets": [
+                                        "SwiftProtobuf"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftProtobufPluginLibrary",
+                                    "targets": [
+                                        "SwiftProtobufPluginLibrary"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "protoc-gen-swift",
+                                    "targets": [
+                                        "protoc-gen-swift"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SwiftProtobuf",
+                                    "name": "SwiftProtobuf"
+                                },
+                                {
+                                    "moduleName": "SwiftProtobufPluginLibrary",
+                                    "name": "SwiftProtobufPluginLibrary"
+                                },
+                                {
+                                    "moduleName": "protoc_gen_swift",
+                                    "name": "protoc-gen-swift"
+                                }
+                            ],
+                            "toolsVersion": "4.2"
+                        }
+                    },
+                    "version": "1.20.1"
+                }
+            ]
+        },
+        {
+            "keywords": [
+                "file-descriptor",
+                "file-path",
+                "posix"
+            ],
+            "license": {
+                "name": "Apache-2.0",
+                "url": "https://raw.githubusercontent.com/apple/swift-system/main/LICENSE.txt"
+            },
+            "readmeURL": "https://raw.githubusercontent.com/apple/swift-system/main/README.md",
+            "summary": "Low-level system calls and types for Swift",
+            "url": "https://github.com/apple/swift-system.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.2",
+                    "manifests": {
+                        "5.2": {
+                            "packageName": "swift-system",
+                            "products": [
+                                {
+                                    "name": "SystemPackage",
+                                    "targets": [
+                                        "SystemPackage"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SystemPackage",
+                                    "name": "SystemPackage"
+                                }
+                            ],
+                            "toolsVersion": "5.2"
+                        }
+                    },
+                    "version": "1.2.1"
+                },
+                {
+                    "defaultToolsVersion": "5.2",
+                    "manifests": {
+                        "5.2": {
+                            "packageName": "swift-system",
+                            "products": [
+                                {
+                                    "name": "SystemPackage",
+                                    "targets": [
+                                        "SystemPackage"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SystemPackage",
+                                    "name": "SystemPackage"
+                                }
+                            ],
+                            "toolsVersion": "5.2"
+                        }
+                    },
+                    "version": "1.2.0"
+                },
+                {
+                    "defaultToolsVersion": "5.2",
+                    "manifests": {
+                        "5.2": {
+                            "packageName": "swift-system",
+                            "products": [
+                                {
+                                    "name": "SystemPackage",
+                                    "targets": [
+                                        "SystemPackage"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SystemPackage",
+                                    "name": "SystemPackage"
+                                }
+                            ],
+                            "toolsVersion": "5.2"
+                        }
+                    },
+                    "version": "1.1.1"
+                },
+                {
+                    "defaultToolsVersion": "5.2",
+                    "manifests": {
+                        "5.2": {
+                            "packageName": "swift-system",
+                            "products": [
+                                {
+                                    "name": "SystemPackage",
+                                    "targets": [
+                                        "SystemPackage"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SystemPackage",
+                                    "name": "SystemPackage"
+                                }
+                            ],
+                            "toolsVersion": "5.2"
+                        }
+                    },
+                    "version": "0.0.3"
+                },
+                {
+                    "defaultToolsVersion": "5.2",
+                    "manifests": {
+                        "5.2": {
+                            "packageName": "swift-system",
+                            "products": [
+                                {
+                                    "name": "SystemPackage",
+                                    "targets": [
+                                        "SystemPackage"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SystemPackage",
+                                    "name": "SystemPackage"
+                                }
+                            ],
+                            "toolsVersion": "5.2"
+                        }
+                    },
+                    "version": "0.0.2"
+                },
+                {
+                    "defaultToolsVersion": "5.2",
+                    "manifests": {
+                        "5.2": {
+                            "packageName": "swift-system",
+                            "products": [
+                                {
+                                    "name": "SystemPackage",
+                                    "targets": [
+                                        "SystemPackage"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SystemPackage",
+                                    "name": "SystemPackage"
+                                }
+                            ],
+                            "toolsVersion": "5.2"
+                        }
+                    },
+                    "version": "v0.0.2"
+                }
+            ]
         }
     ],
     "signature": {
